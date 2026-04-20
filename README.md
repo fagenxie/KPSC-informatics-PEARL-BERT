@@ -6,4 +6,4 @@ Programs for BERT Models in 'Cohort vs Case–Control Design for Transformer-Bas
 3. [BERT pretrain sample code](https://github.com/KPSCRE-Informatics/PEARL-BERT/blob/main/pearl_bert_pretrain.py) <br>
 4. [BERT train sample code](https://github.com/KPSCRE-Informatics/PEARL-BERT/blob/main/pearl_bert_train.py) <br>
 5. [BERT prediction sample code] (https://github.com/KPSCRE-Informatics/PEARL-BERT/blob/main/pearl_bert_predict.py) <br>
-6. [BERT_model_performance_sample_code] ()
+6. [BERT_model_performance_sample_code] (https://github.com/KPSCRE-Informatics/PEARL-BERT/blob/main/pearl_roc_auc.py)
